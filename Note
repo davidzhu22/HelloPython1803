@@ -1,3 +1,6 @@
 #git version control
 -git test command
 -git DGVS
+
+-git branch (branch name)
+-git checkout branch name
